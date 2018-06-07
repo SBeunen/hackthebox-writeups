@@ -56,4 +56,4 @@ Some people have been distrustful because in this repository there are writeups 
 
 Therefore it is a real pride that they have decided to include the functionality of this repo directly on their platform. When this is done, this Github will be migrated and will be inactive but with a pleasantly fulfilled mission. Until then, Keep pushing!  
 
-Hackplayers community, HTB Hispano & Born2root groups.  
+*Hackplayers community, HTB Hispano & Born2root groups*.  
